@@ -1,15 +1,41 @@
 "modes": [
     {
         "gameMode": "CLASSIC",
-        "description": "Classic Summoner's Rift and Twisted Treeline games"
-    },
-    {
-        "gameMode": "ODIN",
-        "description": "Dominion/Crystal Scar games"
+        "description": "Classic Summoner's Rift and Twisted Treeline games\nOn both Classic maps, the primary goal is to destroy the enemy Nexus. Defending each Nexus are several turrets and inhibitors; each structure must be destroyed in sequence (one cannot skip straight to the Nexus). There are many ways to destroy turrets: making use of the automatic minions to take the brunt of the turret's fire or focusing it with several teamates while a tank draws aggro are a few of the many methods of destroying turrets while minimizing casualties. After the turrets have been destroyed, the inhibitors defend the Nexus. They do not attack but are a vital part of winning. Destroying them will allow their respective lane to spawn super minions, powerful beings that can crush ordinary minions and even champios with ease.\nSummoner's Rift - A Field that draws inspiration from the Defense of the Ancients: Allstars (often shortened to DotA) version of the map, with several tweaked features and mechanics. The game consists of five summoners on each team, who are pitted against each other in an attempt to destroy the enemy Nexus and win. The general time it takes to complete a game ranges from 35–50 minutes."
     },
     {
         "gameMode": "ARAM",
-        "description": "ARAM games"
+        "description": "ARAM games\nARAM, abbreviation of All Random, All Mid, is a game mode in League of Legends in a 5v5 format on the Howling Abyss icon Howling Abyss, where the objective is to destroy the opposing team's Nexus. The game includes an Reroll All random draft type, and a game that takes place only on one long lane (specifically referencing its resemblance to Summoner's Rift icon Summoner's Rift's middle lane).
+
+In ARAM, players are given random champions from the available champion pool and are able to trade or reroll their picks.
+
+Before its introduction on June 29, 2012, the mode was a popular spin on Summoner's Rift Custom Game icon Custom games (where it was often played as ARAM) or Dominion (where it was often played as ARAB) in which players agreed to deliberately focus on 5v5 fights in a single lane, most often the middle lane for Summoner's Rift (as it was the shortest) and the bottom half of the map for Dominion (by community consensus), with gameplay mainly focused on fighting and buying items until either team wins. After a Thunderdome event, the Proving Grounds map was revamped from being used solely for the game's first original tutorials, to a playable Custom game map, which players used for this purpose. Eventually, the Howling Abyss replaced Proving Grounds (for the tutorials included, up until their removal and release of the modern tutorial) for this game type, and ARAM was released as an official queue on the Howling Abyss map in Patch 3.6.
+
+Each side of the Howling Abyss icon Howling Abyss has two lane turrets, two patches of brushes, two health relics, one inhibitor, two nexus turrets, a nexus and a shopkeeper. The map was replaced with Butcher's Bridge during Bilgewater events (Burning Tides, Curse of the Drowned).\nThere is only one lane.
+There are only two turrets protecting the inhibitor and two turrets protecting the nexus.
+Champions deal 0% − 25% (based on minutes) bonus damage to structures after 18:00.
+There is a base gate that blocks champions from leaving the base for the first 15 seconds.
+After these base gates have fallen, there will be frost-gates that are spawned in front of each team's Nexus.
+Champions can interact with these gates to initiate Frostgate Warp, causing them to Channeling icon channel for 0.75 seconds. Upon completion, they Dash dash to the other side of the gate over 2.25 seconds, during which they are Untargetable icon untargetable and Lockout icon 2 unable to act. If the channel is interrupted, the gate will be placed on a 1.5-second cooldown. They may also choose a location to dash another time up to a distance away from the gate upon reaching their destination. Frost-gates have a 15-second cooldown after being activated.
+Leading gates cannot be interacted with and are located in front of the outer turret.
+If the outer turret is destroyed, the leading gate is relocated to the front of the inhibitor turret.
+Frost-gates on both sides of the map can be interacted with by champions regardless of which team they are on.
+There are 4 health relics positioned in front of the outer towers, with 2 relics on each team's respective side of the map.
+Restores 8% of missing health and 8% of missing mana to the champion who picks up the relic.
+After being picked up, triggers a beam of light to strike the ground after 2.5 seconds, restoring 16% of missing health and 16% of missing mana for all champions within.
+Recall Recall is disabled, however, the channel's animation will still play.
+The fountain does not grant any restoration effects to champions.
+The shop will be disabled after champions have moved too far away from the fountain. It will be enabled after death.
+The range at which the shop becomes disabled is a slight distance away from the Nexus turrets.
+Unanimous Surrender is enabled at 8:00.
+Surrender is enabled at 12:00.
+Minions
+Minions take 75% damage from AoE damage.
+Minion waves spawn every 25 − 13 (based on minutes) seconds.
+Minions have 325 − 425 (based on minutes) movement speed.
+Siege minions spawn every two waves, starting with the third wave.
+Siege minions and super minions are empowered by Blackout.
+PASSIVE EFFECT - BLACKOUT: When there is a Noxious Trap stealthed trap nearby, gain Blackout, True Sight icon revealing and Exposed icon exposing all stealthed traps within 1100 units. Blackout lingers for 4 seconds after there are no longer any traps nearby."
     },
     {
         "gameMode": "TUTORIAL",

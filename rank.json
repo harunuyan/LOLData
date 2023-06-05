@@ -1,0 +1,106 @@
+{
+"season22":[
+  {
+  "rankName": "Iron",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Season_2022_-_Bronze.png/revision/latest?cb=20220105214224"
+  },
+  {
+  "rankName": "Bronze",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Season_2022_-_Bronze.png/revision/latest?cb=20220105214224"
+  },
+  {
+  "rankName": "Silver",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Season_2022_-_Silver.png/revision/latest?cb=20220105214225"
+  },
+  {
+  "rankName": "Gold",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Season_2022_-_Gold.png/revision/latest?cb=20220105214225"
+  },
+  {
+  "rankName": "Platinum",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Season_2022_-_Platinum.png/revision/latest?cb=20220105214225"
+  },
+  {
+  "rankName": "Diamond",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Season_2022_-_Diamond.png/revision/latest?cb=20220105214226"
+  },
+  {
+  "rankName": "Master",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Season_2022_-_Master.png/revision/latest?cb=20220105214311"
+  },
+  {
+  "rankName": "Grand Master",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Season_2022_-_Grandmaster.png/revision/latest?cb=20220105214312"
+  },
+  {
+  "rankName": "Challenger",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Season_2022_-_Challenger.png/revision/latest?cb=20220105214312"
+  },
+],
+  "season19_21":[
+    {
+    "rankName": "Unranked",
+      "url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Season_2019_-_Unranked.png/revision/latest?cb=20190908074432"
+    },
+    {
+   "rankName": "Provisional",
+     "url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Season_2019_-_Provisional.png/revision/latest?cb=20190908074433"
+    },
+  {
+  "rankName": "Iron",
+  "url": [
+    "ironIV": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Season_2019_-_Iron_4.png/revision/latest?cb=20181229234928",
+    "ironIII": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Season_2019_-_Iron_3.png/revision/latest?cb=20181229234927",
+    "ironII": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Season_2019_-_Iron_2.png/revision/latest?cb=20181229234927",
+    "ironI": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Season_2019_-_Iron_1.png/revision/latest?cb=20181229234926"
+    ],
+  },
+  {
+  "rankName": "Bronze",
+  "url": [
+    "BronzeIV": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Season_2019_-_Bronze_4.png/revision/latest?cb=20181229234913",
+    "BronzeIII": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Season_2019_-_Bronze_3.png/revision/latest?cb=20181229234912",
+    "BronzeII": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Season_2019_-_Bronze_2.png/revision/latest?cb=20181229234911",
+    "BronzeI": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Season_2019_-_Bronze_1.png/revision/latest?cb=20181229234910"
+    ],
+  },
+  {
+  "rankName": "Silver",
+  "url": [
+    "SilverIV": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Season_2019_-_Silver_4.png/revision/latest?cb=20181229234938",
+    "SilverIII": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Season_2019_-_Silver_3.png/revision/latest?cb=20181229234937",
+    "SilverII": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Season_2019_-_Silver_2.png/revision/latest?cb=20181229234936",
+    "SilverI": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Season_2019_-_Silver_1.png/revision/latest?cb=20181229234936"
+    ],
+  },
+  {
+  "rankName": "Gold",
+  "url": [
+    "GoldIV": "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/Season_2019_-_Silver_4.png/revision/latest?cb=20181229234938",
+    "GoldIII": "https://static.wikia.nocookie.net/leagueoflegends/images/1/19/Season_2019_-_Silver_3.png/revision/latest?cb=20181229234937",
+    "GoldII": "https://static.wikia.nocookie.net/leagueoflegends/images/5/56/Season_2019_-_Silver_2.png/revision/latest?cb=20181229234936",
+    "GoldI": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Season_2019_-_Silver_1.png/revision/latest?cb=20181229234936"
+    ],
+  },
+  {
+  "rankName": "Platinum",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3b/Season_2022_-_Platinum.png/revision/latest?cb=20220105214225"
+  },
+  {
+  "rankName": "Diamond",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Season_2022_-_Diamond.png/revision/latest?cb=20220105214226"
+  },
+  {
+  "rankName": "Master",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Season_2022_-_Master.png/revision/latest?cb=20220105214311"
+  },
+  {
+  "rankName": "Grand Master",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fc/Season_2022_-_Grandmaster.png/revision/latest?cb=20220105214312"
+  },
+  {
+  "rankName": "Challenger",
+  "url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Season_2022_-_Challenger.png/revision/latest?cb=20220105214312"
+  },
+]
+}

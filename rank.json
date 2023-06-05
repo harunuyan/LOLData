@@ -1,5 +1,6 @@
 {
-"season22":[
+  "data": [
+"season22":{
   {
   "rankName": "Iron",
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Season_2022_-_Bronze.png/revision/latest?cb=20220105214224"
@@ -36,8 +37,8 @@
   "rankName": "Challenger",
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Season_2022_-_Challenger.png/revision/latest?cb=20220105214312"
   },
-],
-  "season19_21":[
+},
+  "season19_21":{
     {
     "rankName": "Unranked",
       "url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Season_2019_-_Unranked.png/revision/latest?cb=20190908074432"
@@ -127,8 +128,8 @@
     "ChallengerI": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Season_2019_-_Challenger_1.png/revision/latest?cb=20181229234913"
     ],
   },
-],
-  "season13_18":[
+},
+  "season13_18":{
     {
     "rankName": "Unranked",
       "url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Season_2013_-_Unranked.png/revision/latest?cb=20181116163918"
@@ -199,8 +200,8 @@
     "Challenger": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d8/Season_2013_-_Challenger.png/revision/latest?cb=20181116163939"
     ],
   },
-],
-  "season12":[
+},
+  "season12":{
     {
   "rankName": "Unranked",
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Season_2012_-_Unranked.png/revision/latest?cb=20181116163913"
@@ -225,8 +226,8 @@
   "rankName": "Diamond",
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Season_2012_-_Diamond.png/revision/latest?cb=20130928162320"
   }
-],
-  "season11":[
+},
+  "season11":{
     {
   "rankName": "Unranked",
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Season_2011_-_Unranked.png/revision/latest?cb=20120229234515"
@@ -247,5 +248,6 @@
   "rankName": "Platinum",
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Season_2011_-_Platinum.png/revision/latest?cb=20120229234516"
   }
+}
 ]
 }

@@ -63,11 +63,11 @@
     "season19_21": [
       {
         "rankName": "Unranked",
-        "url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Season_2019_-_Unranked.png/revision/latest?cb=20190908074432"
+        "unrankedUrl": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Season_2019_-_Unranked.png/revision/latest?cb=20190908074432"
       },
       {
         "rankName": "Provisional",
-        "url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Season_2019_-_Provisional.png/revision/latest?cb=20190908074433"
+        "provisionalUrl": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5e/Season_2019_-_Provisional.png/revision/latest?cb=20190908074433"
       },
       {
         "rankName": "Iron",
@@ -172,11 +172,11 @@
     "season13_18": [
       {
         "rankName": "Unranked",
-        "url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Season_2013_-_Unranked.png/revision/latest?cb=20181116163918"
+        "unrankedUrl": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Season_2013_-_Unranked.png/revision/latest?cb=20181116163918"
       },
       {
         "rankName": "Provisional",
-        "url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Season_2013_-_Provisional.png/revision/latest?cb=20181116163923"
+        "provisionalUrl": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e0/Season_2013_-_Provisional.png/revision/latest?cb=20181116163923"
       },
       {
         "rankName": "Bronze",

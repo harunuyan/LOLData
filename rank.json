@@ -57,14 +57,12 @@
           },
           {
             "rankName": "Iron",
-            "url": [
-              {
-                "ironIV": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Season_2019_-_Iron_4.png/revision/latest?cb=20181229234928",
-                "ironIII": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Season_2019_-_Iron_3.png/revision/latest?cb=20181229234927",
-                "ironII": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Season_2019_-_Iron_2.png/revision/latest?cb=20181229234927",
-                "ironI": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Season_2019_-_Iron_1.png/revision/latest?cb=20181229234926"
-              }
-            ]
+            "url": {
+              "ironIV": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Season_2019_-_Iron_4.png/revision/latest?cb=20181229234928",
+              "ironIII": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Season_2019_-_Iron_3.png/revision/latest?cb=20181229234927",
+              "ironII": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Season_2019_-_Iron_2.png/revision/latest?cb=20181229234927",
+              "ironI": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Season_2019_-_Iron_1.png/revision/latest?cb=20181229234926"
+            }
           },
           {
             "rankName": "Bronze",

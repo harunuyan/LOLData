@@ -2,6 +2,9 @@
   "data": {
 "season22":[
   {
+    "name" "Season 22"
+    "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4f722ffa96c57d49/61eba3d3c0a40a27e868db01/012422_ChemtechDrakeDisable_Banner.jpg"
+  {
   "rankName": "Iron",
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Season_2022_-_Bronze.png/revision/latest?cb=20220105214224"
   },
@@ -37,8 +40,12 @@
   "rankName": "Challenger",
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Season_2022_-_Challenger.png/revision/latest?cb=20220105214312"
   }
+  }
 ],
   "season19_21":[
+    {
+      "name": "Season 2019 2021"
+      "image": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Jhin_Camille_Awaken_Concept_01.jpg/revision/latest?cb=20190129235654"
     {
     "rankName": "Unranked",
       "url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Season_2019_-_Unranked.png/revision/latest?cb=20190908074432"
@@ -146,8 +153,12 @@
     }
     ]
   }
+    }
 ],
   "season13_18":[
+    {
+      "name": "Season 2013 2018"
+      "image": "https://i.ytimg.com/vi/12zd3_RWFic/maxresdefault.jpg"
     {
     "rankName": "Unranked",
       "url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Season_2013_-_Unranked.png/revision/latest?cb=20181116163918"
@@ -232,8 +243,12 @@
     }
     ]
   }
+    }
 ],
   "season12":[
+    {
+      "name": "Season 2012"
+      "image": "https://www.f2p.com/wp-content/uploads/2012/08/League-of-legends-logo640-640x300.jpg"
     {
   "rankName": "Unranked",
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Season_2012_-_Unranked.png/revision/latest?cb=20181116163913"
@@ -258,8 +273,12 @@
   "rankName": "Diamond",
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Season_2012_-_Diamond.png/revision/latest?cb=20130928162320"
   }
+    }
 ],
   "season11":[
+    {
+      "name": "Season 2011"
+      "image": "https://static.wikia.nocookie.net/leagueoflegends/images/4/42/Season_1_Banner.jpg/revision/latest?cb=20100616151834"
     {
   "rankName": "Unranked",
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Season_2011_-_Unranked.png/revision/latest?cb=20120229234515"
@@ -281,5 +300,6 @@
   "url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Season_2011_-_Platinum.png/revision/latest?cb=20120229234516"
   }
 ]
+}
 }
 }
